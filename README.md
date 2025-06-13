@@ -8,8 +8,8 @@
 
 ### Skills
 
-- **Languages**: `Java` `C++`
-- **Back-End**: `Spring Framework` `Spring Boot` `Spring Security` `Spring Data JPA`
+- **Language**: `Java` `C++`
+- **Back-End**: `Spring Framework` `Spring Boot` `Spring Web MVC` `Spring Data JPA`
 - **Database**: `MySQL` `SQLite3`
 - **DevOps**: `Docker` `Docker Compose`
 
@@ -23,8 +23,8 @@
 ### Certificates
 
 - SQLD `2024.09.20`
-- Engineer Information Processing <!-- 정보처리기사 --> `2025.06.13` <!-- 가채점 결과 합격. 발표일에 주석 제거하기 -->
-<!-- AWS 자격증 알아보기! -->
+- Engineer Information Processing <!-- 정보처리기사, 77/100, 회차 합격률 15.1832% --> `2025.06.13`
+<!-- ~~AWS 자격증 알아보기!~~ 시험 한번에 $150.. 고민 좀 더 해보기 -->
 
 ### Language Skill
 
